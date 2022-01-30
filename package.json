@@ -1,0 +1,29 @@
+{
+  "name": "skyhelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "axios": "^0.24.0",
+    "bufferutil": "^4.0.6",
+    "database-js": "^3.0.11",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^12.0.3",
+    "fs": "^0.0.1-security",
+    "nbt": "^0.8.1",
+    "node-schedule": "^2.1.0",
+    "pako": "^2.0.4",
+    "prismarine-nbt": "^2.1.0",
+    "typescript": "^4.5.4",
+    "util": "^0.12.4"
+  }
+}
