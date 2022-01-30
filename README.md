@@ -21,6 +21,7 @@ Congrats, you made it.
 - `/unlink` - Unlink.
 - `/timers` - Shows timers for events
 - `/bazaar` - Bazaar data for an item.
+- `ping` - Check the ping of the bot.
 > The following commands will display a players stats. 
 - `/info` - Shows basic info.
 - `/skills` - Shows skills.
