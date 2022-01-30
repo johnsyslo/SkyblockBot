@@ -1,5 +1,8 @@
 # SkyHelper
 [Setup](#setup) | [Commands](#commands) | [Credits](#credits)
+
+A Hypixel Skyblock bot that gets you all the info you need about Skyblock!
+
 ## Setup
 1. Clone Repo
 2. Create a `.env` file following this template:
@@ -33,3 +36,4 @@ Congrats, you made it.
 - [Minetools](https://api.minetools.eu/) - Minecraft UUID
 - [InventiveTalent](https://github.com/InventivetalentDev) - Event Timers API
 - [McHeads](https://mc-heads.net/) - Skins API
+- [Dxxxxy](https://github.com/DxxxxY/DreamBot) - Inspo
