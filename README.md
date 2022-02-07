@@ -1,4 +1,4 @@
-# SkyBot
+# SkyblockBot
 [Setup](#setup) | [Commands](#commands) | [Credits](#credits)
 
 A Hypixel Skyblock bot that gets you all the info you need about Skyblock!
