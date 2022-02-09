@@ -38,3 +38,18 @@ Congrats, you made it.
 - [InventiveTalent](https://github.com/InventivetalentDev) - Event Timers API
 - [McHeads](https://mc-heads.net/) - Skins API
 - [Dxxxxy](https://github.com/DxxxxY/DreamBot) - Inspo
+
+#To-Do
+- [x] `/link` - Link your Minecraft account.
+- [x] `/unlink` - Unlink.
+- [x] `/timers` - Shows timers for events
+- [x] `/bazaar` - Bazaar data for an item.
+- [x] `ping` - Check the ping of the bot.
+- [x] `/info` - Shows basic info.
+- [x] `/skills` - Shows skills.
+- [] `/averages` - Display the average Auction House price of an time.
+- [] `/pets` - Shows pets.
+- [] `/slayers` - Shows slayers.
+- [] `/dungeons` - Shows dungeons info.
+- [] `/average` - Average price of an item in AH.
+- [] `/networth` - May come, might not.
