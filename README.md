@@ -39,7 +39,7 @@ Congrats, you made it.
 - [McHeads](https://mc-heads.net/) - Skins API
 - [Dxxxxy](https://github.com/DxxxxY/DreamBot) - Inspo
 
-#To-Do
+# To-Do
 - [x] `/link` - Link your Minecraft account.
 - [x] `/unlink` - Unlink.
 - [x] `/timers` - Shows timers for events
