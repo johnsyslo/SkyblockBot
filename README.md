@@ -47,9 +47,9 @@ Congrats, you made it.
 - [x] `ping` - Check the ping of the bot.
 - [x] `/info` - Shows basic info.
 - [x] `/skills` - Shows skills.
-- [] `/averages` - Display the average Auction House price of an time.
-- [] `/pets` - Shows pets.
-- [] `/slayers` - Shows slayers.
-- [] `/dungeons` - Shows dungeons info.
-- [] `/average` - Average price of an item in AH.
-- [] `/networth` - May come, might not.
+- [ ] `/averages` - Display the average Auction House price of an time.
+- [ ] `/pets` - Shows pets.
+- [ ] `/slayers` - Shows slayers.
+- [ ] `/dungeons` - Shows dungeons info.
+- [ ] `/average` - Average price of an item in AH.
+- [ ] `/networth` - May come, might not.
