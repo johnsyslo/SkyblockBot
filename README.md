@@ -13,7 +13,7 @@ APIKEY= # hypixel api key
 3. `npm i` - Installs dependencies
 4. `node .` - Runs bot
 
-Congrats, you made it.
+Congrats, you did it.
 
 ## Commands
 > Not everything is completely finished!
