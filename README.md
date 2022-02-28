@@ -37,7 +37,6 @@ Congrats, you did it.
 - [Minetools](https://api.minetools.eu/) - Minecraft UUID
 - [InventiveTalent](https://github.com/InventivetalentDev) - Event Timers API
 - [McHeads](https://mc-heads.net/) - Skins API
-- [Dxxxxy](https://github.com/DxxxxY/DreamBot) - Inspo
 
 # To-Do
 - [x] `/link` - Link your Minecraft account.
