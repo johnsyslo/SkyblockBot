@@ -1,4 +1,5 @@
 # SkyblockBot
+## As of right now it is completely broken due to updates to Discord and it being well over a year of nothing happening. Going to try and rewrite in discord.py for learning.
 [Setup](#setup) | [Commands](#commands) | [Credits](#credits)
 
 A Hypixel Skyblock bot that gets you all the info you need about Skyblock!
