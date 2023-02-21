@@ -1,5 +1,5 @@
 # SkyblockBot
-## This bot is no longer going to be updated, SkyHelper is currently way better and creating this would be a waste of time. This is currently very outdated and WILL NOT work.
+## Outdated and Archived, use SkyHelper instead!
 [Setup](#setup) | [Commands](#commands) | [Credits](#credits)
 
 A Hypixel Skyblock bot that gets you all the info you need about Skyblock!
